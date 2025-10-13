@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="ciro" icon="ciroPREY">
+	<anim name="idle" anim="idle" loop="true"/>
+	<anim name="singDOWN" anim="down" x="-69" y="-34"/>
+	<anim name="singRIGHT" anim="right" x="-4" y="4"/>
+	<anim name="singLEFT" anim="left" x="21"/>
+	<anim name="singUP" anim="up" x="-92" y="37"/>
+</character>

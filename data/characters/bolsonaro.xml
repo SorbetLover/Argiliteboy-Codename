@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character icon="jair" color="#9CFFA3">
+	<anim name="idle" anim="Pico Idle Dance"/>
+	<anim name="singDOWN" anim="Pico Down Note" x="-47" y="-130"/>
+	<anim name="singRIGHT" anim="Pico Note Right" x="12" y="-187"/>
+	<anim name="singLEFT" anim="Pico NOTE LEFT" x="79" y="-19"/>
+	<anim name="singUP" anim="pico Up note" x="118" y="-109"/>
+</character>

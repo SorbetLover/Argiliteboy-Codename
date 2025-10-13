@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="magv4_assets.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mag alt down0000" x="0" y="0" width="784" height="384" frameX="0" frameY="-101" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0001" x="0" y="0" width="784" height="384" frameX="0" frameY="-101" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0002" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0003" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0004" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0005" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0006" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0007" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0008" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0009" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0010" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0011" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0012" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0013" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt down0014" x="784" y="0" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag alt idle0000" x="1509" y="0" width="722" height="656" frameX="0" frameY="-203" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0001" x="1509" y="0" width="722" height="656" frameX="0" frameY="-203" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0002" x="2231" y="0" width="650" height="743" frameX="-25" frameY="-115" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0003" x="2231" y="0" width="650" height="743" frameX="-25" frameY="-115" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0004" x="2881" y="0" width="606" height="856" frameX="-41" frameY="0" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0005" x="2881" y="0" width="606" height="856" frameX="-41" frameY="0" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0006" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0007" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0008" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0009" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0010" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0011" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0012" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt idle0013" x="3487" y="0" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag alt left0000" x="4139" y="0" width="800" height="436"/>
+	<SubTexture name="mag alt left0001" x="4139" y="0" width="800" height="436"/>
+	<SubTexture name="mag alt left0002" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0003" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0004" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0005" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0006" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0007" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0008" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0009" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0010" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0011" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0012" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt left0013" x="4939" y="0" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag alt right0000" x="5671" y="0" width="595" height="457"/>
+	<SubTexture name="mag alt right0001" x="5671" y="0" width="595" height="457"/>
+	<SubTexture name="mag alt right0002" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0003" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0004" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0005" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0006" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0007" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0008" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0009" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0010" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0011" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0012" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0013" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt right0014" x="6266" y="0" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag alt up0000" x="6813" y="0" width="653" height="582" frameX="-49" frameY="0" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0001" x="6813" y="0" width="653" height="582" frameX="-49" frameY="0" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0002" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0003" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0004" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0005" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0006" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0007" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0008" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0009" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0010" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0011" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0012" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0013" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag alt up0014" x="0" y="856" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag dm down0000" x="750" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0001" x="750" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0002" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0003" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0004" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0005" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0006" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0007" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0008" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0009" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0010" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0011" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0012" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0013" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm down0014" x="1320" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0000" x="1890" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0001" x="1890" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0002" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0003" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0004" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0005" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0006" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0007" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0008" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0009" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0010" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0011" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0012" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0013" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm left0014" x="2460" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0000" x="3030" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0001" x="3030" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0002" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0003" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0004" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0005" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0006" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0007" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0008" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0009" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0010" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0011" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0012" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm right0013" x="3600" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0000" x="4170" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0001" x="4170" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0002" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0003" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0004" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0005" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0006" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0007" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0008" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0009" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0010" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0011" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0012" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0013" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag dm up0014" x="4740" y="856" width="570" height="709"/>
+	<SubTexture name="mag down0000" x="5310" y="856" width="784" height="384" frameX="0" frameY="-101" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0001" x="5310" y="856" width="784" height="384" frameX="0" frameY="-101" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0002" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0003" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0004" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0005" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0006" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0007" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0008" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0009" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0010" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0011" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0012" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0013" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag down0014" x="6094" y="856" width="725" height="485" frameX="-29" frameY="0" frameWidth="784" frameHeight="485"/>
+	<SubTexture name="mag idle0000" x="6819" y="856" width="722" height="656" frameX="0" frameY="-203" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0001" x="6819" y="856" width="722" height="656" frameX="0" frameY="-203" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0002" x="7541" y="856" width="650" height="743" frameX="-25" frameY="-115" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0003" x="7541" y="856" width="650" height="743" frameX="-25" frameY="-115" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0004" x="0" y="1599" width="606" height="857" frameX="-41" frameY="0" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0005" x="0" y="1599" width="606" height="857" frameX="-41" frameY="0" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0006" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0007" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0008" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0009" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0010" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0011" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0012" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag idle0013" x="606" y="1599" width="652" height="799" frameX="-25" frameY="-59" frameWidth="722" frameHeight="859"/>
+	<SubTexture name="mag left0000" x="1258" y="1599" width="800" height="436"/>
+	<SubTexture name="mag left0001" x="1258" y="1599" width="800" height="436"/>
+	<SubTexture name="mag left0002" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0003" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0004" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0005" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0006" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0007" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0008" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0009" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0010" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0011" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0012" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag left0013" x="2058" y="1599" width="732" height="436" frameX="-68" frameY="0" frameWidth="800" frameHeight="436"/>
+	<SubTexture name="mag right0000" x="2790" y="1599" width="595" height="457"/>
+	<SubTexture name="mag right0001" x="2790" y="1599" width="595" height="457"/>
+	<SubTexture name="mag right0002" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0003" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0004" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0005" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0006" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0007" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0008" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0009" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0010" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0011" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0012" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0013" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag right0014" x="3385" y="1599" width="547" height="457" frameX="0" frameY="0" frameWidth="595" frameHeight="457"/>
+	<SubTexture name="mag throw0000" x="3932" y="1599" width="570" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0001" x="4502" y="1599" width="577" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0002" x="5079" y="1599" width="570" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0003" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0004" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0005" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0006" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0007" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0008" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0009" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0010" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0011" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0012" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0013" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0014" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0015" x="5649" y="1599" width="573" height="709" frameX="-365" frameY="-111" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0016" x="6222" y="1599" width="642" height="765" frameX="-298" frameY="-78" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0017" x="6222" y="1599" width="642" height="765" frameX="-298" frameY="-78" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0018" x="6864" y="1599" width="846" height="898" frameX="-71" frameY="-2" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0019" x="0" y="2497" width="913" height="901" frameX="0" frameY="0" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0020" x="0" y="2497" width="913" height="901" frameX="0" frameY="0" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0021" x="0" y="2497" width="913" height="901" frameX="0" frameY="0" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0022" x="0" y="2497" width="913" height="901" frameX="0" frameY="0" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0023" x="913" y="2497" width="842" height="885" frameX="-85" frameY="-12" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0024" x="913" y="2497" width="842" height="885" frameX="-85" frameY="-12" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0025" x="1755" y="2497" width="688" height="799" frameX="-360" frameY="-100" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0026" x="2443" y="2497" width="979" height="666" frameX="-357" frameY="-182" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0027" x="3422" y="2497" width="1210" height="676" frameX="-357" frameY="-188" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0028" x="4632" y="2497" width="1431" height="678" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0029" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0030" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0031" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0032" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0033" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0034" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0035" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0036" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0037" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0038" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0039" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0040" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0041" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0042" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0043" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag throw0044" x="6063" y="2497" width="821" height="680" frameX="-357" frameY="-190" frameWidth="1788" frameHeight="901"/>
+	<SubTexture name="mag up0000" x="6884" y="2497" width="653" height="582" frameX="-49" frameY="0" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0001" x="6884" y="2497" width="653" height="582" frameX="-49" frameY="0" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0002" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0003" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0004" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0005" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0006" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0007" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0008" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0009" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0010" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0011" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0012" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0013" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+	<SubTexture name="mag up0014" x="0" y="3398" width="750" height="501" frameX="0" frameY="-81" frameWidth="750" frameHeight="582"/>
+</TextureAtlas>

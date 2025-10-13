@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gsora" icon="soraya" color="#FF8888">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="43"/>
+	<anim name="singRIGHT" anim="right" x="-86"/>
+	<anim name="singLEFT" anim="left" x="39" y="1"/>
+	<anim name="singUP" anim="up" x="28" y="22"/>
+</character>

@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="/stages/magbg/" name="mag">
+	<girlfriend/>
+	<sprite x="-572.818123130099" sprite="magbg" y="-242.856094874552" type="none" scale="1.11" name="sprite_3"/>
+	<dad x="-76.6822002295414" y="90.9393744976296"/>
+	<boyfriend/>
+</stage>

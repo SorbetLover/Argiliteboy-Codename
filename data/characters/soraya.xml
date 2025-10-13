@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="sora" color="#FF7979">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="40" y="2"/>
+	<anim name="singRIGHT" anim="right" x="134" y="-81"/>
+	<anim name="singLEFT" anim="left" x="84" y="-50"/>
+	<anim name="singUP" anim="up" x="68" y="49"/>
+</character>

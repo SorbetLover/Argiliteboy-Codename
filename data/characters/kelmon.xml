@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="kelmo" color="#A1D5FF">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="146" y="-117"/>
+	<anim name="singRIGHT" anim="right" x="86" y="-93"/>
+	<anim name="singLEFT" anim="left" x="148" y="-49"/>
+	<anim name="singUP" anim="up" x="94" y="-13"/>
+</character>

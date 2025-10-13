@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFFFFF",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"normal"
+	],
+	"icon": "moro",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "lore",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 210
+}

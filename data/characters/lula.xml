@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="magv4_assets" color="#FFFFFF">
+	<anim name="idle" anim="mag idle" x="-16" y="91"/>
+	<anim name="singDOWN" anim="mag down" x="74" y="-289"/>
+	<anim name="singRIGHT" anim="mag right" x="-24" y="-296"/>
+	<anim name="singLEFT" anim="mag left" x="184" y="-321"/>
+	<anim name="singUP" anim="mag up" x="48" y="-176"/>
+	<anim name="singUP-mag" anim="mag dm up" x="-78" y="-53"/>
+	<anim name="throw" anim="mag throw" x="286" y="76"/>
+	<anim name="singUP-alt" anim="mag alt up" x="48" y="-175"/>
+	<anim name="singDOWN-mag" anim="mag dm down" x="-75" y="-44"/>
+	<anim name="singLEFT-mag" anim="mag dm left" x="-75" y="-43"/>
+	<anim name="singDOWN-alt" anim="mag alt down" x="87" y="-272"/>
+	<anim name="idle-alt" anim="mag alt idle" x="-27" y="87"/>
+	<anim name="singLEFT-alt" anim="mag alt left" x="230" y="-318"/>
+	<anim name="singRIGHT-mag" anim="mag dm right" x="-74" y="-46"/>
+	<anim name="singRIGHT-alt" anim="mag alt right" x="-27" y="-296"/>
+</character>

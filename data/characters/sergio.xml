@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character icon="moro" color="#FFB569">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="100" y="-226"/>
+	<anim name="singRIGHT" anim="right" x="14" y="-52"/>
+	<anim name="singLEFT" anim="left" x="44" y="-94"/>
+	<anim name="singUP" anim="up" y="-18"/>
+</character>

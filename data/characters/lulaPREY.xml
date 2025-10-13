@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="lula" icon="lula" color="#FFFFFF">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left" x="68" y="53"/>
+	<anim name="singUP" anim="up" x="-3" y="48"/>
+</character>

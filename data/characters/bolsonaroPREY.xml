@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="bozo" icon="jair" color="#B7FFAE">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="24" y="-97"/>
+	<anim name="singRIGHT" anim="right" x="9" y="-31"/>
+	<anim name="singLEFT" anim="left" x="48" y="21"/>
+	<anim name="singUP" anim="up" y="23"/>
+</character>

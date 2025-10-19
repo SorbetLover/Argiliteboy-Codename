@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="bozo" icon="jair" color="#B7FFAE">
+<character sprite="bozo" flipX="true" isPlayer="true" icon="jair" color="#B7FFAE">
 	<anim name="idle" anim="idle"/>
 	<anim name="singDOWN" anim="down" x="24" y="-97"/>
 	<anim name="singRIGHT" anim="right" x="9" y="-31"/>

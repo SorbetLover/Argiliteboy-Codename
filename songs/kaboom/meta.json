@@ -1,11 +1,12 @@
 {
+	"customValues": {},
+	"color": "#99FD71",
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"normal"
 	],
-	"icon": "face",
+	"icon": "jair",
 	"coopAllowed": false,
-	"color": "#9271FD",
 	"stepsPerBeat": 4,
 	"displayName": "Kaboom",
 	"needsVoices": true,

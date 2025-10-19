@@ -1,15 +1,14 @@
 {
-	"customValues": {},
-	"color": "#FDFB71",
 	"opponentModeAllowed": false,
 	"difficulties": [
 		"normal"
 	],
-	"icon": "soraya",
+	"icon": "face",
 	"coopAllowed": false,
+	"color": "#9271FD",
 	"stepsPerBeat": 4,
-	"displayName": "virgin-rage",
+	"displayName": "TWO-FOUR",
 	"needsVoices": true,
 	"beatsPerMeasure": 4,
-	"bpm": 165
+	"bpm": 218
 }

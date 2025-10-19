@@ -46,7 +46,6 @@ function postCreate(){
     dad.cameraOffset = FlxPoint.get(1200, 300);
 
     comboGroup.x += 700;
-    camGame.fade(0xFF000000, 0, false);
 
     thing1 = new FunkinSprite().loadGraphic(Paths.image("stages/prey/Circle-prey"));
     thing2 = new FunkinSprite().loadGraphic(Paths.image("stages/prey/Text-prey"));
@@ -60,10 +59,11 @@ function postCreate(){
 
     thing1.x -= 1000;
     thing2.x += 1000;
+    // camGame.fade(0xFF000000, 0, false);
 
 }
 
-function onSongStart(){
+function sonSongStart(){
     FlxTween.tween(thing1, {x: thing1.x + 1000}, 0.3 * inst.pitch, {onComplete: function(){
         for(i in [thing1, thing2])FlxTween.tween(i, {alpha: 0}, 2 * inst.pitch, {startDelay: 2*inst.pitch});
         new FlxTimer().start(2, function(){
@@ -101,6 +101,10 @@ function stepHit(){
             lule.cameraOffset = FlxPoint.get(700,0);
             lule.x = 1500;
 
+        case 1188, 1790:
+
+            lule.cameraOffset = FlxPoint.get(700,0);
+            lule.x = 1500;
         case 3365:
             ciro.y = boyfriend.y;
             ciro.x = 3000;
@@ -112,3 +116,9 @@ function stepHit(){
     }
 }
 
+
+function postUpdate(){
+    if(curCameraTarget == 0 && PlayState.instance.curStep >= 1760){
+        camFollow.setPosition(1400,-100);
+    }
+}

@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/virgin/" name="virgin" zoom="0.8">
+	<girlfriend/>
+	<sprite type="none" sprite="stageback" name="sprite_7" y="100"/>
+	<sprite type="none" sprite="stagefront" y="906" name="sprite_8"/>
+	<sprite x="446.750773099589" sprite="stagestuff" y="658.043977267464" type="none" name="sprite_3"/>
+	
+	<dad x="900" y="400"/>
+	<boyfriend x="1200" y="400"/>
+	
+	<!-- <sprite x="1021" sprite="spotlight" y="169" type="none" alpha="0.1" scalex="2" name="sprite_4"/> -->
+	<sprite x="537.142857142857" sprite="stage_light" y="218.095238095238" type="none" angle="-5.86825314418094" name="sprite_5"/>
+	<sprite type="none" sprite="stagecurtains" name="sprite_9" y="100"/>
+	<sprite x="-500" sprite="stagecrowd" y="250" type="none" scale="0.7" name="sprite_6" scroll="0.7"/>
+</stage>

@@ -25,6 +25,7 @@ function create(){
     insert(0,sky);
     insert(members.indexOf(boyfriend) + 1,rail);
 
+
 }
 var thing1:FunkinSprite;
 var thing2:FunkinSprite;
@@ -41,8 +42,12 @@ function postCreate(){
 
     lule.x -= 1500;
     ciro.x -= 1500;
-
-    boyfriend.cameraOffset = FlxPoint.get(60,-30);
+    
+    for(i in [strumLines.members[1].characters[0], lule, ciro]){
+        i.scale.set(0.7,0.7);
+        i.y += 70;
+    }
+    boyfriend.cameraOffset = FlxPoint.get(60,-90);
     dad.cameraOffset = FlxPoint.get(1200, 300);
 
     comboGroup.x += 700;
@@ -60,10 +65,11 @@ function postCreate(){
     thing1.x -= 1000;
     thing2.x += 1000;
     // camGame.fade(0xFF000000, 0, false);
+    
 
 }
 
-function sonSongStart(){
+function onSongStart(){
     FlxTween.tween(thing1, {x: thing1.x + 1000}, 0.3 * inst.pitch, {onComplete: function(){
         for(i in [thing1, thing2])FlxTween.tween(i, {alpha: 0}, 2 * inst.pitch, {startDelay: 2*inst.pitch});
         new FlxTimer().start(2, function(){
@@ -90,20 +96,14 @@ function stepHit(){
             lule.playAnim("singLEFT");
             curCameraTarget = 1;
         case 1598:
-            lule.cameraOffset = FlxPoint.get(700,0);
+            // lule.cameraOffset = FlxPoint.get(500,0);
             FlxTween.tween(lule, {x: 1500}, 5 *inst.pitch);
         case 1650:
-            boyfriend.cameraOffset = FlxPoint.get(300, -30);
-        case 1780:
-            lule.cameraOffset = FlxPoint.get(700,0);
-            lule.x = 1500;
-        case 3335:
-            lule.cameraOffset = FlxPoint.get(700,0);
-            lule.x = 1500;
+            boyfriend.cameraOffset = FlxPoint.get(300, -90);
+            
+        case 1790, 3335:
 
-        case 1188, 1790:
-
-            lule.cameraOffset = FlxPoint.get(700,0);
+            // lule.cameraOffset = FlxPoint.get(500,0);
             lule.x = 1500;
         case 3365:
             ciro.y = boyfriend.y;
@@ -119,6 +119,6 @@ function stepHit(){
 
 function postUpdate(){
     if(curCameraTarget == 0 && PlayState.instance.curStep >= 1760){
-        camFollow.setPosition(1400,-100);
+        camFollow.setPosition(1400,0);
     }
 }

@@ -8,13 +8,13 @@ function create(){
     defaultCamZoom = 0.6;
 
     sky = new FlxBackdrop().loadGraphic(Paths.image("stages/prey/stardustBg3"));
-    sky.velocity.x = -2000;
+    sky.velocity.x = -1600;
     sky.repeatAxes = 1;
     sky.screenCenter();
     sky.y = -570;
 
     rail = new FlxBackdrop().loadGraphic(Paths.image("stages/prey/stardustFloor"));
-    rail.velocity.x = sky.velocity.x * 0.9;
+    rail.velocity.x = sky.velocity.x * 1.4;
     rail.repeatAxes = 1;
     rail.scale.set(0.6,0.6);
     rail.updateHitbox();
@@ -40,7 +40,7 @@ function postCreate(){
     lule.y -= 460;
     ciro.y -= 400;
 
-    lule.x -= 1500;
+    lule.x -= 2000;
     ciro.x -= 1500;
     
     for(i in [strumLines.members[1].characters[0], lule, ciro]){
@@ -48,7 +48,7 @@ function postCreate(){
         i.y += 70;
     }
     boyfriend.cameraOffset = FlxPoint.get(60,-90);
-    dad.cameraOffset = FlxPoint.get(1200, 300);
+    dad.cameraOffset = FlxPoint.get(1400, 300);
 
     comboGroup.x += 700;
 
@@ -64,8 +64,13 @@ function postCreate(){
 
     thing1.x -= 1000;
     thing2.x += 1000;
-    // camGame.fade(0xFF000000, 0, false);
-    
+    camGame.fade(0xFF000000, 0, false);
+    defaultCamZoom += 1;
+    FlxG.camera.zoom = defaultCamZoom;
+    boyfriend.cameraOffset = FlxPoint.get(60,100);
+    sky.alpha = 0;
+    rail.alpha = 0;
+
 
 }
 
@@ -82,6 +87,15 @@ function onSongStart(){
 
 function stepHit(){
     switch(curStep){
+        case 128:
+            camGame.fade(0xFFFFFFFF, 0.5, true);
+            rail.alpha = 1;
+            sky.alpha = 1;
+    
+            defaultCamZoom -= 1;
+            FlxG.camera.zoom = defaultCamZoom;
+            boyfriend.cameraOffset = FlxPoint.get(60,-90);
+
         case 248:
             FlxTween.tween(ciro, {x:0}, 1 * inst.pitch, {ease:FlxEase.backOut});
         case 320:
